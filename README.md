@@ -7,7 +7,7 @@ A beautiful, interactive two-player dice game built for web browsers. Players ta
 ## 🚀 Live Demo
 
 Launch the game directly in your browser to play against a friend:
-*   **Play Now:** [Deploy Link Here]
+*   **Play Now:** [https://pig-game-six-pi.vercel.app/]
 
 ### 🎮 How to Play
 1.  **Roll Dice:** Click to roll. Accumulate points as long as you avoid rolling a **1**.
