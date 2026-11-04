@@ -4,6 +4,18 @@ A beautiful, interactive two-player dice game built for web browsers. Players ta
 
 ---
 
+## 🚀 Live Demo
+
+Launch the game directly in your browser to play against a friend:
+*   **Play Now:** [Deploy Link Here]
+
+### 🎮 How to Play
+1.  **Roll Dice:** Click to roll. Accumulate points as long as you avoid rolling a **1**.
+2.  **Hold Score:** Click to save your current turn's points to your total global score. 
+3.  **Watch Out:** Rolling a **1** wipes out your current turn's points and immediately switches turns!
+
+---
+
 ## 🗺️ Game Workflow Diagram
 
 The complete application logic, player-switching conditions, and victory states are mapped out in the flowchart below:
@@ -40,3 +52,4 @@ The complete application logic, player-switching conditions, and victory states 
 ├── script.js                # State management framework and button interaction handlers
 ├── pig-game-flowchart.png   # Game logic workflow diagram reference image
 └── dice-*.png               # Dice graphic image assets used during active gameplay
+```
